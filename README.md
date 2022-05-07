@@ -1,5 +1,15 @@
 
-# This is a minimal Tauri example
+# A minimal Tauri example
+
+It uses
+- [React](reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Parcel](https://parceljs.org/getting-started/webapp/) 
+
+![](./screenshot.png)
+
+
+## Getting started
 
 Make sure you have [the prerequisites](https://tauri.studio/docs/getting-started/prerequisites)
 

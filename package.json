@@ -1,12 +1,23 @@
 {
   "name": "tauri-app",
+  "source": "./src/index.html",
   "scripts": {
-    "tauri": "tauri"
+    "tauri": "tauri",
+    "start": "parcel",
+    "build": "parcel build",
+    "ts": "tsc --noEmit"
   },
   "dependencies": {
-    "@tauri-apps/api": "^1.0.0-rc.4"
+    "@tauri-apps/api": "^1.0.0-rc.4",
+    "@types/react": "^18.0.9",
+    "@types/react-dom": "^18.0.3",
+    "parcel": "^2.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "typescript": "^4.6.4"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.0.0-rc.9"
-  }
+  },
+  "license": "UNLICENSED"
 }

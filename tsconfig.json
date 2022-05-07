@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "esnext",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "allowUnreachableCode": false,
+    "strictNullChecks": true,
+  },
+  "include": [
+    "./src"
+  ]
+}

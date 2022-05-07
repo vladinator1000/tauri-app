@@ -1,5 +1,5 @@
 
-# A minimal Tauri example
+# A minimal [Tauri](https://tauri.studio/) example
 
 It uses
 - [React](reactjs.org/)
